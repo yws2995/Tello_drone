@@ -8,10 +8,10 @@
 
 텔로의 경우 scratch만 사용가능, 텔로 에듀 python으로 프로젝트 진행
 
-텔로 파이썬 참고는 [여기](https://edimoon777.github.io/junghomoon/Tellopy/)
+텔로 파이썬 참고는 [여기](https://edimoon777.github.io/junghomoon/Tellopy/)\
 텔로 공식 파이썬 패키지 설치는 [여기](https://github.com/dji-sdk/Tello-Python)
-텔로 연결은 [여기](https://www.youtube.com/watch?v=hU9s3UYMgkM)
-텔로 에듀 구매 링크는 [여기](https://store.dji.com/kr/product/tello-edu?vid=47091)
+텔로 연결은 [여기](https://www.youtube.com/watch?v=hU9s3UYMgkM)\
+텔로 에듀 구매 링크는 [여기](https://store.dji.com/kr/product/tello-edu?vid=47091)\
 텔로 드론코딩 공부는 [여기](https://www.youtube.com/watch?v=LmEcyQnfpDA&t=10428s)
 
 ### 체크리스트
